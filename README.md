@@ -30,6 +30,10 @@ Leia o artigo completo para entender cada dica em detalhes. Aplique essas práti
 
 O artigo foi criado com a ajuda da inteligência artificial e revisado por humanos para garantir a qualidade do conteúdo. Se você achou as dicas úteis, não esqueça de seguir minhas redes sociais para mais conteúdos como este.
 
+### Link do Artigo
+
+https://web.dio.me/articles/10-dicas-essenciais-para-melhorar-seu-codigo-javascript?back=%2Farticles&page=1&order=oldest
+
 ### Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-campos-dev/)
